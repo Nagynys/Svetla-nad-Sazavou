@@ -66,13 +66,6 @@ nav .mainMenu .closeMenu, .icons i {
 }
 
 
-.fa-facebook:hover{color: rgb(38, 63, 206);}
-.fa-instagram:hover{color: rgb(133, 53, 127);}
-.fa-twitter:hover{color: rgb(31, 169, 228);}
-.fa-github:hover{color: rgb(165, 163, 163);}
-
-
-
 /* Nadpisy */
 h1 {
     color: #e50914;
@@ -192,7 +185,7 @@ th {
 }
 
 
-/* Zámek + Vánoční procházka */
+/* Zámek + Vánoční stezka + Park */
 /* Submenu a subMenuSecond*/
 ul li:hover .subMenu {
     display: block;
